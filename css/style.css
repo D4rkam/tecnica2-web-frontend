@@ -174,7 +174,15 @@ body{
   height: 50px;
   width: 150px;
   position: absolute;
+  border: solid black 2px;
 }
+/*Button text*/
+.button-text{
+  padding-top: 5px;
+  color: blue;
+  font-weight: 700;
+}
+
 /*Flechas carousel next*/
 .carousel-control-next{
   width: 50px;
@@ -189,6 +197,12 @@ body{
   text-align: right;
   margin-top: 18.1%;
 }
+
+.cargar-mas{
+  text-align: center;
+  margin-top: 10%;
+}
+
 .principal-img::before {
   content: ""; /* Obligatorio para que el pseudo-elemento sea visible */
   position: absolute; /* Para superponer el pseudo-elemento al fondo */
