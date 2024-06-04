@@ -76,8 +76,7 @@ body{
   display: block;
   margin-top: 0;
 }
-.principal-img{
-    background-image: url('../img/principal.jpg'); 
+.principal-img{ 
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -88,31 +87,6 @@ body{
     position: relative;
     z-index: 1;
 }
-.principal-img2{
-  background-image: url('../img/EscribirCompu.jpg'); 
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  width: 99vw; 
-  height: 85vh;
-  display: flex;
-  align-items: center;
-  position: relative;
-  z-index: 1;
-}
-.principal-img3{
-  background-image: url('../img_Anuncios/Collage1.jpg'); 
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  width: 99vw; 
-  height: 85vh;
-  display: flex;
-  align-items: center;
-  position: relative;
-  z-index: 1;
-}
-
 
 .carousel-caption{
   margin-left: -15%;
