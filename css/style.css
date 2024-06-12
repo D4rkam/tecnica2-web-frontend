@@ -150,6 +150,11 @@ body{
   position: absolute;
   border: solid black 2px;
 }
+/* button hover */
+.button-carousel:hover{
+  background-color: wheat; /* Color de fondo en estado hover */
+  color: black ;
+}
 /*Button text*/
 .button-text{
   padding-top: 5px;
