@@ -223,6 +223,16 @@ body{
     font-weight: 400;
 }
 
+.company-info {
+  font-size: 20px;
+  font-weight: 400;
+  text-align: center;
+  margin: 0 auto;
+  max-width: 80%;
+  line-height: 1.6;
+}
+
+
 .imagenes {
     display: flex;
     justify-content: space-around;
